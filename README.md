@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The Trust Bid
 
 AI-assisted quote comparison and negotiation for moving and collision-repair services.
@@ -203,3 +204,7 @@ created, pushed, or overwritten.
 - **What remains before public launch?** Verify upstream provenance/licensing, add
   authentication and tenant isolation, review privacy/retention, and validate live-call
   compliance and external-service configuration.
+=======
+# The-Trust-Bid
+AI-assisted quote comparison and negotiation for moving and collision-repair services.
+>>>>>>> 25ffb7444ccdd4bee1bd5942e7848911be73a150
